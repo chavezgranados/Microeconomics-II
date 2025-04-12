@@ -1,2 +1,2 @@
-# Microeconomics-II
-Curso de pregrado de la PUCP.
+## Microeconomics-II
+_Curso bloqueado_
